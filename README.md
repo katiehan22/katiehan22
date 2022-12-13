@@ -2,6 +2,7 @@
 - 👩🏻‍💻 I'm a full stack software engineer with experience in eCommerce and digital marketing.
 - 🌱 I’m currently learning Python.
 - 👀 Ask me about [Lululime](http://lululime.onrender.com/), my eCommerce website clone. 
+- 📁 Check out my [portfolio](https://katiehan.netlify.app/).
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/katiehan22/).
 
 ## 📈 My Stats
